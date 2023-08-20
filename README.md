@@ -1,6 +1,5 @@
 # PW-INTERNSHIP-SHOPPING-CART: Shopping Cart
 
-
 ## _Technology Used_
 [![javascript](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=blue)]()
 
