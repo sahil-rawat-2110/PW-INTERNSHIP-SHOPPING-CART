@@ -22,7 +22,7 @@ _**[Click Here To Preview](https://drive.google.com/file/d/11p71ZCkhSrLTMGieIdju
 
 
 ## _LinkedIn Post_
-_**[Click Here to See](linkedin post link)**_
+_**[Click Here to See](https://www.linkedin.com/posts/sahil-rawat-49369b24b_internship-pwskills-reactjs-activity-7099057504311013376-doTm?utm_source=share&utm_medium=member_android)**_
 
 ![pro tech shopping img](https://github.com/sahil-rawat-2110/PW-INTERNSHIP-SHOPPING-CART/assets/124564195/2ed97c5d-1bbb-4ca4-b34f-0056333a0cc3)
 
