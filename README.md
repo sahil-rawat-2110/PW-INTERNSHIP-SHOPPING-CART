@@ -1,4 +1,4 @@
-# PW-INTERNSHIP-SHOPPING-CART: Shopping Cart_
+# PW-INTERNSHIP-SHOPPING-CART: Shopping Cart
 
 
 ## _Technology Used_
