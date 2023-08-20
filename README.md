@@ -16,7 +16,7 @@ _**[Click Here To Preview](https://drive.google.com/file/d/1Y1oraNHCmB1bUcNnuW4C
 _**[Click Here To Preview HLD](https://drive.google.com/file/d/1LWlabURh7PEizC3Ckut5W79wzBLAq0T-/view?usp=drive_link)**_ & _**[Click Here To Preview LLD](https://drive.google.com/file/d/1TVhLnCKeCfKWpRvBFV77WF-AGDeNW8YW/view?usp=drive_link)**_
 
 ## _Demo Video_
-_**[Click Here To Preview](drive link)**_
+_**[Click Here To Preview](https://drive.google.com/file/d/11p71ZCkhSrLTMGieIdjuxkGXawMqS7fi/view?usp=drive_link)**_
 
 ![216012666-247a5aa4-b44a-4c73-bf04-2162d30fcf3f](https://github.com/sahil-rawat-2110/PW-INTERNSHIP-SHOPPING-CART/assets/124564195/dd423a20-6764-41d4-9958-d09b9c428db3)
 
