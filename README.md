@@ -1,5 +1,8 @@
 # PW-INTERNSHIP-SHOPPING-CART: Shopping Cart
 
+## _Live Preview_
+_**[Click Here To Preview](https://shopping-cart-project534375.netlify.app)**_
+
 ## _Technology Used_
 [![javascript](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=blue)]()
 
